@@ -17,20 +17,19 @@ Prioritize root-cause analysis and prevention for **CO-4 and CO-197**. Review mo
 
 ---
 
-## 2. Medicare has a lower denial rate but a significant dollar impact
+## 2. Medicare is the largest source of denied dollars
 
 **What:**  
-Medicare has a lower claim-level denial rate than the overall portfolio, but its denied dollars remain financially significant because of the larger dollar value of some Medicare claims.
+Medicare is the largest source of denied dollars in the current claims population.
 
 **How big:**  
-Medicare has **4 claims**, of which **1 was denied**, giving it a **25.0% denial rate**. That denied claim represents **$1,600 in denied dollars**, or approximately **13.2% of the portfolio's $12,100 total denied dollars**.
+Medicare accounts for **$4,100 of the $12,100 total denied dollars (33.9%)**, from **2 of 3 claims**. The two denied claims are **$2,500 for CO-197 (authorization)** and **$1,600 for CO-4 (coding)**.
 
 **Why it matters:**  
-Looking only at denial rate can hide financial exposure. A payer with fewer denied claims can still contribute meaningful denied dollars when individual claims have higher billed amounts.
+Medicare's **66.7% denial rate** ties with Cigna and UHC, but its higher claim values make it the **largest dollar risk** among the payers.
 
 **What to do:**  
-Track both **denial rate and denied dollars** when prioritizing payer performance. For Medicare, investigate the denial associated with **CO-4** and determine whether the issue is isolated or reflects a broader coding/modifier pattern.
-
+Start with the **Medicare prior-authorization workflow**, particularly the CO-197 denial, while also reviewing the CO-4 coding issue for potential modifier-related patterns.
 
 ---
 
